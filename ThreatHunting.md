@@ -109,4 +109,8 @@ event_simpleName="RegSystemConfigValueUpdate" AND RegObjectName="*\RDP-Tcp" AND 
 
 This query is inspired by [MENASEC's research](https://blog.menasec.net/2019/02/threat-hunting-detecting-psloggedon.html)
 
+
+## Reference 
+https://www.i-secure.co.th/2019/11/practicing-threat-hunting-skills-with-crowdstrike-events-app/
+
 *No events related to this activity*
